@@ -1,6 +1,6 @@
 # Mohit Bhimrajka
 
-🚀 AI/ML Enthusiast | Developer | Community Leader
+AI/ML Enthusiast | Developer | Community Leader
 
 Welcome to my GitHub profile! I'm an AI-focused technology student passionate about Machine Learning, Data Science, and Big Data analytics. My work spans building intelligent applications, optimizing processes, and leading impactful technical initiatives.
 
