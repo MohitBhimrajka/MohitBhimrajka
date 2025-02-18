@@ -1,53 +1,79 @@
 # Mohit Bhimrajka
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in machine learning, deep learning, and application development. Here, you'll find a collection of my projects that showcase my skills and contributions.
+🚀 AI/ML Enthusiast | Developer | Community Leader
 
-🌐 **Check out my website:** [MohitBhimrajka.com](https://www.mohitbhimrajka.com) – Explore my portfolio, blog, and latest projects!
+Welcome to my GitHub profile! I'm an AI-focused technology student passionate about Machine Learning, Data Science, and Big Data analytics. My work spans building intelligent applications, optimizing processes, and leading impactful technical initiatives.
 
-## Projects
+🌐 **Explore my work on my website:** [MohitBhimrajka.com](https://www.mohitbhimrajka.com/)
 
-### 1. Housing Price Prediction
+---
 
-- **Description:** Developed a predictive model for housing prices using advanced data preprocessing, dimensionality reduction, and outlier handling techniques. Achieved an RMSE of 0.106, outperforming traditional models by 93.5%.
-- **Highlights:**
-  - Extensive feature engineering and PCA for dimensionality reduction.
-  - Robust outlier handling, significantly improving accuracy.
-  - Detailed notebook explaining the step-by-step process.
-- **Technologies Used:** Python, Scikit-learn, Pandas, Matplotlib.
+## 📌 About Me
 
-[View Project Files](https://github.com/MohitBhimrajka/Projects/tree/main/Housing-Price-Prediction)
+- 🔹 **GenAI Intern at Siemens AG** – Developed an AI assistant leveraging LLaMA 3.1 and FAISS embeddings, cutting down the ideation-to-production cycle by 20%.
+- 🔹 **Data Science Intern at University of Technology Sydney** – Built PDF automation for a COVID-19 simulation tool, improving data dissemination efficiency.
+- 🔹 **Community Lead at Code Vipassana (Google Cloud Initiative)** – Organizing workshops, hackathons, and tech events for AI/ML developers.
+- 🔹 **Vice President of STAGE (Cultural Club)** – Leading cross-functional teams to execute university-wide events.
+- 🔹 **President, Technical Student Council (ATLAS SkillTech University)** – Managed Mumbai's largest tech hackathon in collaboration with GDG MAD & MumbaiTech.
 
-### 2. Interactive CNN Demo
+---
 
-- **Description:** Designed an interactive demo to showcase how Convolutional Neural Networks (CNNs) process images, providing an educational tool for those new to deep learning.
-- **Highlights:**
-  - Visual representation of each layer's output in a CNN.
-  - User-friendly interface for experimenting with different images.
-  - Comprehensive documentation to guide users through the demo.
-- **Technologies Used:** Python, TensorFlow, Keras, Streamlit.
+## 🛠️ Skills & Tech Stack
 
-[View Project Files](https://github.com/MohitBhimrajka/Projects/tree/main/Interactive-CNN-Demo)
+### **Core Competencies**
+- **Programming & Data Analysis:** Python (Pandas, NumPy, SciPy, Scikit-learn), Jupyter Notebook, Matplotlib, Seaborn
+- **Machine Learning & AI:** TensorFlow, PyTorch, LLMs (LLaMA, OpenAI, Deepseek), Generative AI, Prompt Engineering
+- **Big Data & Databases:** Apache Spark, Hadoop, SQL, NoSQL (MongoDB, Redis)
+- **Tools & Platforms:** Docker, JIRA, Google Cloud, Snowflake
+- **Soft Skills:** Project Management, Strategic Planning, Leadership, Communication, Critical Thinking
 
-### 3. College Counseling App
+---
 
-- **Description:** Developed a web application to assist students in navigating the college application process, offering personalized recommendations and resources.
-- **Highlights:**
-  - User authentication and profile management.
-  - Personalized college recommendations based on user input.
-  - Resource library with articles and guides on college applications.
-- **Technologies Used:** JavaScript, React, Node.js, Express, MongoDB.
+## 💡 Featured Projects
 
-[View Project Files](https://github.com/MohitBhimrajka/Projects/tree/main/College-Counseling-App)
+### 🎯 **Recommendation Engine (Ongoing)**
+- **Description:** Developing a personalized recommendation engine using Python and PostgreSQL.
+- **Tech Stack:** Pandas, Scikit-learn, PostgreSQL
 
-## Skills
+### 🏡 **Housing Price Prediction**
+- **Description:** Built a predictive model leveraging PCA, feature engineering, and outlier handling, achieving an **RMSE of 0.106**.
+- **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib
+- [🔗 View Repository](https://github.com/MohitBhimrajka/Projects/tree/main/Housing-Price-Prediction)
 
-- **Programming Languages:** Python, JavaScript
-- **Frameworks and Libraries:** TensorFlow, Keras, React, Node.js, Express
-- **Tools and Platforms:** Git, MongoDB, Streamlit
-- **Areas of Expertise:** Machine Learning, Deep Learning, Web Development, Data Analysis
+### 🎨 **Interactive CNN Demo**
+- **Description:** Created a real-time visualization of Convolutional Neural Networks (CNNs) for educational purposes.
+- **Tech Stack:** Python, TensorFlow, Keras, Streamlit
+- [🔗 View Repository](https://github.com/MohitBhimrajka/Projects/tree/main/Interactive-CNN-Demo)
 
-## Contact
+### 🎓 **College Counseling App**
+- **Description:** Developed an AI-powered web app integrating LLMs to assist students in navigating internship applications.
+- **Tech Stack:** React, Node.js, Express, MongoDB, Gemma2, LLaMA 3.2
+- [🔗 View Repository](https://github.com/MohitBhimrajka/Projects/tree/main/College-Counseling-App)
 
-Feel free to reach out to me via [email](mailto:mohitbhimrajka5@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohit-bhimrajka).
+---
 
-Thank you for visiting my GitHub profile!
+## 🏆 Achievements & Awards
+
+- 🏅 **Top 3 in Batch for Model Thinking & Building**
+- 🏅 **Guinness World Record Participant** for leading Mumbai's largest hackathon
+- 🏅 **ATLAS Achievers Award** for exceptional leadership and technical contributions
+- 🏅 **SAT Math Score: 740/800**, showcasing strong quantitative aptitude
+
+---
+
+## 📚 Certifications
+
+- ✅ **Google Prompting Essentials**
+- ✅ **Microsoft Office Specialist**
+- ✅ **DBT Fundamentals** (Data Build Tool)
+
+---
+
+## 📩 Let's Connect!
+
+- 🔗 **Website:** [MohitBhimrajka.com](https://www.mohitbhimrajka.com/)
+- 📧 **Email:** [mohitbhimrajka5@gmail.com](mailto:mohitbhimrajka5@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/mohit-bhimrajka](https://www.linkedin.com/in/mohit-bhimrajka/)
+- 🔗 **GitHub:** [github.com/MohitBhimrajka](https://github.com/MohitBhimrajka/)
+
+Thanks for visiting! ⭐ If you find my work interesting, feel free to fork, star, or collaborate. 🚀
