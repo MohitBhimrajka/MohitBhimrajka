@@ -4,7 +4,7 @@
   <br>
   Turning data into intelligence, and ideas into impact.
   <br><br>
-  🌍 <a href="https://www.mohitbhimrajka.com/">Portfolio</a> • 📩 <a href="mailto:mohitbhimrajka5@gmail.com">Email</a> • 🏆 <a href="https://linkedin.com/in/mohit-bhimrajka">LinkedIn</a> • 🐙 <a href="https://github.com/MohitBhimrajka">GitHub</a>  
+  🌍 <a href="https://www.mohitbhimrajka.com/">Website</a> • 📩 <a href="mailto:mohitbhimrajka5@gmail.com">Email</a> • 🏆 <a href="https://linkedin.com/in/mohit-bhimrajka">LinkedIn</a> • 🐙 <a href="https://github.com/MohitBhimrajka">GitHub</a>  
 </p>
 
 ---
