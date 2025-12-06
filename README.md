@@ -69,6 +69,30 @@ Spoiler: C++ wins. But Python has better snacks at the finish line.
 
 ---
 
+### [Full-Stack Template](https://github.com/MohitBhimrajka/template) — Ship Faster, Configure Less
+
+Got tired of spending the first week of every project configuring boilerplate. So I built a template I actually want to use.
+
+**FastAPI + Next.js + PostgreSQL** — all containerized with Docker. One command to start, zero environment debugging nightmares.
+
+**What's included:**
+- Python 3.11 backend with FastAPI, Pydantic, SQLAlchemy
+- Next.js 15 frontend with React 19 and TypeScript
+- PostgreSQL 15 with Alembic migrations pre-configured
+- Docker Compose for consistent dev environments across any OS
+- Code quality tools (Black, isort, ESLint, Prettier) ready to go
+
+```bash
+git clone https://github.com/MohitBhimrajka/template
+cd template && cp .env.example .env
+docker-compose up --build
+# → Frontend at :3001, Backend at :8001/docs
+```
+
+[View the template →](https://mohitbhimrajka.com/template)
+
+---
+
 ## Tech I Actually Use
 
 **The Google Cloud stuff:**
