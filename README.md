@@ -1,6 +1,6 @@
 # Hey, I'm Mohit 👋
 
-I'm a **Forward Deployed AI Engineer** who's slightly obsessed with making AI systems that actually work in production (you know, the hard part).
+I'm a **Senior Forward Deployed AI Engineer** who's slightly obsessed with making AI systems that actually work in production (you know, the hard part).
 
 Currently at [Supervity](https://supervity.ai), where I get paid to argue with LLMs and occasionally win.
 
@@ -144,3 +144,4 @@ I'm always down to talk about:
 <br><br>
 <sub>P.S. If you're hiring and made it this far, we should probably talk.</sub>
 </p>
+
