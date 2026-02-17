@@ -24,6 +24,22 @@ I build AI systems for enterprises and teach developers how to do the same. The 
 
 ## What I've Been Building
 
+### [Visual Commerce](https://github.com/MohitBhimrajka/visual-commerce-gemini-3-alloydb) — Teaching AI to Count Boxes
+
+What if your supply chain could *see*? Not the "I think there are approximately some bolts" kind of seeing — the "there are exactly 47 M8 hex bolts in bin 3" kind.
+
+Visual Commerce is a **multi-agent supply chain system** where a Vision Agent (Gemini 3 Flash), Supplier Agent (AlloyDB AI), and Control Tower coordinate autonomously to count inventory and find replacement parts.
+
+**The cool parts:**
+- Gemini 3 Flash with Code Execution for *deterministic* vision (no more "approximately")
+- AlloyDB ScaNN for vector search (10x faster than HNSW — Google Research wasn't kidding)
+- A2A Protocol for agent discovery (the future of multi-agent communication)
+- Complete 30-minute codelab: `./setup.sh` → `./run.sh` → done
+
+[View the project & tutorial →](https://github.com/MohitBhimrajka/visual-commerce-gemini-3-alloydb)
+
+---
+
 ### [Project Agora](https://github.com/MohitBhimrajka/project-agora) — When One Agent Isn't Enough
 
 I got tired of explaining why a single chatbot can't replace an engineering team. So I built a system that actually tries to.
@@ -96,11 +112,11 @@ docker-compose up --build
 ## Tech I Actually Use
 
 **The Google Cloud stuff:**
-Vertex AI, Cloud Run, BigQuery, ADK, Secret Manager, Cloud Logging
+Vertex AI, Cloud Run, BigQuery, ADK, AlloyDB AI, A2A Protocol, Secret Manager, Cloud Logging
 *(Yes, I drink the Kool-Aid. It's pretty good Kool-Aid.)*
 
 **The AI/ML stuff:**
-Gemini 2.5, LangChain, RAG pipelines, PyTorch, TensorFlow
+Gemini 3 Flash, Gemini 2.5, LangChain, RAG pipelines, PyTorch, TensorFlow
 
 **The "I can also do this" stuff:**
 Python, TypeScript, C++, Java, FastAPI, React, Docker, Postgres
@@ -111,6 +127,7 @@ Python, TypeScript, C++, Java, FastAPI, React, Docker, Postgres
 
 I write about the stuff that doesn't fit in a README — architectural decisions, production war stories, and occasionally, opinions:
 
+- [**Autonomous Supply Chain with Gemini 3 Flash & AlloyDB AI**](https://github.com/MohitBhimrajka/visual-commerce-gemini-3-alloydb) — Multi-agent vision meets vector search
 - [**Building an Autonomous Software Agency**](https://mohitbhimrajka.com/blog/project-agora) — Multi-agent systems on ADK
 - [**Architecting a "Human" AI Interviewer**](https://mohitbhimrajka.com/blog/aiva-architecture) — Latency, WebSockets, and controlled generation
 - [**Polyglot Microservices on Cloud Run**](https://mohitbhimrajka.com/blog/algoarena-3d) — When you need proof, not opinions
@@ -142,6 +159,4 @@ I'm always down to talk about:
 <p align="center">
 <i>"The future of development isn't AI assistance — it's AI collaboration."</i>
 <br><br>
-<sub>P.S. If you're hiring and made it this far, we should probably talk.</sub>
 </p>
-
